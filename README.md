@@ -3,7 +3,7 @@ rectangle-packing
 
   This is a php project that is about rectangle packing. About this project you need a mysql database. Create a database and run this command
 <code><pre>
-  CREATE TABLE IF NOT EXISTS `table` (
+CREATE TABLE IF NOT EXISTS `table` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `name` varchar(255) NOT NULL,
   `column` varchar(500) NOT NULL,
