@@ -1,7 +1,11 @@
 rectangle-packing
 =================
+  An algorithm implementation in PHP for rectangle packing.
+  
+  Algorithm based on <http://www.blackpawn.com/texts/lightmaps/default.html>
+	It uses a binary tree to partition the space of the parent rectangle and allocate the passed rectangles by dividing the partitions into filled and empty.
 
-  This is a PHP-MySQL project that is about rectangle packing. About run this project you need a mysql database. Create a database and run this command
+  About run this project you need a mysql database. Create a database and run this command
 <code><pre>
 CREATE TABLE IF NOT EXISTS `table` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
