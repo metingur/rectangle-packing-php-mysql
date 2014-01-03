@@ -21,5 +21,7 @@ CREATE TABLE IF NOT EXISTS `table` (
   
   If you want to see working examples. Click this link http://metingur.com.tr/tasarim/
   
+  I just want to thank Iván Montes to answering my questions.
+  
   This project will be updated.
   
