@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Diktörtgen parçala</title>
+	<title>Rectangle Packing</title>
 	<meta charset="utf-8">
 <style type="text/css" media="screen">
     #canvas {
