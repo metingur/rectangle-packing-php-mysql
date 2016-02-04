@@ -18,10 +18,5 @@ CREATE TABLE IF NOT EXISTS `table` (
 </code></pre>
 
   And then you need to set up database configuration in index.php (line 3), index2.php (line 147) and index3.php (line 132) <code><pre> $conn=mysql_connect('localhost', 'db_user', 'password'); </code></pre>
-  
-  If you want to see working examples. Click this link http://metingur.com.tr/tasarim/
-  
-  I want to thank Iván Montes to answering my questions.
-  
-  This project will be updated.
-  
+ 
+  I want to thank Iván Montes for helping and answering my questions.
