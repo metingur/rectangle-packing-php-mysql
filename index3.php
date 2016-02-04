@@ -80,7 +80,7 @@ for ($i=0; $i<count($block); $i++) {
 ?>
 
 
-<a href="http://metingur.com.tr/tasarim/index.php">Baştan Hesapla</a>
+<a href="../tasarim/index.php">Baştan Hesapla</a>
 
 <div id="canvas" style="position: relative; width: <?php echo $maxh;?>px; height: <?php echo $maxw;?>px;">
 <?php foreach ($blocks as $img): ?><div style="border: 1px solid red; background: none repeat scroll 0% 0% rgb(16, 43, 44); position: absolute; top: <?php echo $img['y']; ?>px; left: <?php echo $img['x']; ?>px; width: <?php echo ($img['w']-2); ?>px; height: <?php echo ($img['h']-2); ?>px;"></div><?php endforeach; ?>
