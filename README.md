@@ -17,6 +17,6 @@ CREATE TABLE IF NOT EXISTS `table` (
 ) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=24 ;
 </code></pre>
 
-  And then you need to set up database configuration in index.php (line 3), index2.php (line 147) and index3.php (line 132) <code><pre> $conn=mysql_connect('localhost', 'db_user', 'password'); </code></pre>
+  And then you need to set up database configuration in databes.php file.
  
-  I want to thank Iván Montes for helping and answering my questions.
+ Many thanks to Iván Montes for helping and answering my questions.
